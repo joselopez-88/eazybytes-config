@@ -1,0 +1,10 @@
+build:
+  version: "2.0"
+loans:
+  message: "Welcome to EazyBank Loans QA environment APIs"
+  contactDetails:
+    name: "Priya Sharma - QA Manager"
+    email: "priya.sharma@eazybank.qa"
+  onCallSupport:
+    - "(321)765-4321"
+    - "(654)321-9876"

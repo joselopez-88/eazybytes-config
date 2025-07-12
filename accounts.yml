@@ -1,0 +1,10 @@
+build:
+  version: "3.0"    
+accounts:
+  message: "Welcome to EazyBank accounts related local APIs"
+  contactDetails:
+    name: "Jose Alberto - Developer"
+    email: "alberto.esteva88@gmail.com"
+  onCallSupport:
+    - "(971)123-4567"
+    - "(971)123-5678"
