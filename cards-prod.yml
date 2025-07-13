@@ -4,7 +4,7 @@ cards:
   message: "Welcome to EazyBank cards related Prod APIs"
   contactDetails:
     name: "Elena Torres - Product Owner"
-    email: "elena.torres@eazybank.com"
+    email: "{cipher}70909c67221b58ce4466532661ee2f5d51d9607845d81ec436d60cb0b3dc772ddfc0bdafabcdf4975d705f02f8528f54"
   onCallSupport:
     - "(453)392-4829"
     - "(236)203-0384"

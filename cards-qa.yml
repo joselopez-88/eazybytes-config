@@ -4,7 +4,7 @@ cards:
   message: "Welcome to EazyBank cards QA environment APIs"
   contactDetails:
     name: "Lucía Ramírez - QA Lead"
-    email: "lucia.ramirez@eazybank.qa"
+    email: "{cipher}0761c5633975d94c1dc4b45c9afecf4d7786ea8b18c766087c2bd8067959b0a8842af3709c2304337ebb5bdea73aeaa2"
   onCallSupport:
     - "(321)765-4321"
     - "(654)321-9876"

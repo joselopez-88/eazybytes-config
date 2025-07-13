@@ -4,7 +4,7 @@ accounts:
   message: "Welcome to EazyBank accounts related local APIs"
   contactDetails:
     name: "Jose Alberto - Developer"
-    email: "alberto.esteva88@gmail.com"
+    email: "{cipher}dde7f33d6426c59bca4c3b3bc0aa74b22b74511ac11ac3ab5f94682dfc1749b698fe12e346e0f2cfbc9c1e38c9713a3c"
   onCallSupport:
     - "(971)123-4567"
     - "(971)123-5678"

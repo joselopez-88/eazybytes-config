@@ -4,7 +4,7 @@ cards:
   message: "Welcome to EazyBank cards development environment"
   contactDetails:
     name: "Marco Salinas - Backend Developer"
-    email: "marco.salinas@eazybank.dev"
+    email: "{cipher}c30a25ec56411ae212f1d2126b30cae48efcc1aa2b1d88cb5419dc498323723c62574a35467ffab228ec2dc4c2ac7016"
   onCallSupport:
     - "(123)456-7890"
     - "(987)654-3210"

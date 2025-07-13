@@ -4,7 +4,7 @@ loans:
   message: "Welcome to EazyBank Loans Development environment"
   contactDetails:
     name: "Carlos Rivera - Dev Lead"
-    email: "carlos.rivera@eazybank.dev"
+    email: "{cipher}96435f5926d540ab6a93691d5359e3453f4502821b0029f1f1f182bbbf8ed45f995db8de6960b46fa7ca34049eb70486"
   onCallSupport:
     - "(123)456-7890"
     - "(987)654-3210"        
