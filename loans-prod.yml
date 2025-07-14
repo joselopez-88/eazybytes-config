@@ -1,7 +1,7 @@
 build:
   version: "1.0"
 accounts:
-  message: "Welcome to EazyBank Loans related Production APIs"
+  message: "Welcome to EazyBank Loans related Prod APIs"
   contactDetails:
     name: "Robert Williams - Product Owner"
     email: "{cipher}fb10a6982a40db445de586e94f1e0167c5b8411922a96292f1f1782054dfb71ec6c53a501d260ffd95d8740be77f0470"
